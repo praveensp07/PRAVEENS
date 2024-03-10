@@ -1,0 +1,82 @@
+.body1{
+    background-color:black;
+}
+.nav1{
+color: azure;
+display: inline-block;
+}
+ul,li{
+    display: inline-block;
+    color: azure;
+    padding-left:30px;
+ 
+    border-left: 60px;
+}
+li:hover{
+    color: gray;
+    cursor: pointer;
+}
+
+.div1{
+    height: 40%;
+    width:30%;
+    display: inline-block;
+    margin-left: 10%;
+    margin-bottom: 30%;
+  
+  
+}
+    
+.img1{
+    height: 400px;
+    width:400px;
+    display: inline-block;
+    padding-top: 100px;
+    margin-bottom: 100%;
+
+}
+.p1{
+    color: white;
+}
+button:hover{
+    background-color:aqua;
+}
+.div2{
+    height: 40%;
+    width:40%;
+    display: inline-block;
+    padding-left: 80px;
+    margin-bottom: 12%;
+}
+.body2{
+    background-color: gray;
+}
+.social{
+    height: 30%;
+    width:30%;
+    padding-bottom: 80%;
+    text-align: center;
+
+}
+.fa-instagram{
+    font-size: 30px;
+    color: white;
+    padding: 3%;
+    margin-top: 500px;
+    
+}
+.fa-facebook-f{
+    font-size: 30px;
+    color: white;
+    padding: 3%; 
+    margin-top: 500px;
+    
+
+}
+.fa-twitter
+{
+font-size: 30px;
+color: white;
+padding: 3%; 
+margin-top: 500px;  
+}
